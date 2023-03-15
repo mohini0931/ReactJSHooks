@@ -1,5 +1,5 @@
 import './App.css';
-import HookUseSate  from "./AllHooks/UseStateHook";
+import HookUseSate  from "./AllHooks/HookUseState";
 
 function App() {
 
